@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": ledinasmp.aternos.me,
+    "ip": ledinasmp.aternos.me",
     "port": 14117,
-    "version": "1.12.2",
+    "version": "1.12.2", 
     "try-creative": false
   },
   "position": {
