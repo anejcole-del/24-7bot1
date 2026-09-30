@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dihg.aternos.me",
-    "port": 24326,
+    "ip": ledinasmp.aternos.me",
+    "port": 14117,
     "version": "1.12.2",
     "try-creative": false
   },
